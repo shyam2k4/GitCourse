@@ -12,6 +12,23 @@
  ## 4. `git fetch`:
  fetches recent changes made by other collaborators in the remote to local
 
+ ## 5. `git add .`:
+ adds all the file changes to the staging area
+
+ ## 6. `git commit`:
+ allows us to create a commit
+
+ ## 7. `git log`:
+ gives us an overview of commits
+
+ ## 8. `git add <filename>`:
+ adds one or more files to staging
+
+ ## 9. `git reset <filename>`:
+ removes one or more files from staging
+
+
+
 # Commit:
 
 - set of saved repo changes
